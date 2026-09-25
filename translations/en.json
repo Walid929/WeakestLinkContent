@@ -76,7 +76,7 @@
   "round_intro_info": "{seconds} seconds · target {target}",
   "double_note": "Everything banked this round is multiplied by {x}!",
   "starts_with": "{name} starts",
-  "change_starter_hint": "Tap a name to change who starts this round.",
+  "change_starter_hint": "Tap a name to choose who starts, or pick at random.",
   "start_clock": "Start the clock",
   "chain_value": "On the chain: {amount}",
   "banked_of_target": "Banked {amount} of {target}",
@@ -259,5 +259,11 @@
   "ph_claim_title_game": "Playing in this game? Tap your name",
   "ph_claim_hint": "Your phone becomes that player's buttons: bank, answer and vote.",
   "ph_not_me": "This isn't me",
-  "ph_not_me_named": "Not {name}? Give this seat back"
+  "ph_not_me_named": "Not {name}? Give this seat back",
+  "questions_random_mix": "Random mix",
+  "questions_choose": "Choose categories",
+  "questions_random_hint": "Questions come at random from all categories ({n} available).",
+  "questions_include_clips": "Include songs and video clips",
+  "change_starter_hint_later": "The Chain Champion starts by default. Tap a name to choose someone else, or pick at random.",
+  "starter_pick_random": "Pick at random"
 }

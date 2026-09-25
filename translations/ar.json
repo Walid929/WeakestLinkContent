@@ -76,7 +76,7 @@
   "round_intro_info": "{seconds} ثانية · الهدف {target}",
   "double_note": "كل ما يُودَع في هذه الجولة يُضرب في {x}!",
   "starts_with": "يبدأ {name}",
-  "change_starter_hint": "اضغط على اسم لتغيير من يبدأ هذه الجولة.",
+  "change_starter_hint": "اضغط على اسم لتختار من يبدأ، أو اختر عشوائيًا.",
   "start_clock": "ابدأ الوقت",
   "chain_value": "في السلسلة: {amount}",
   "banked_of_target": "تم إيداع {amount} من {target}",
@@ -259,5 +259,11 @@
   "ph_claim_title_game": "هل تلعب في هذه اللعبة؟ اضغط على اسمك",
   "ph_claim_hint": "يصبح هاتفك أزرار هذا اللاعب: الإيداع والإجابة والتصويت.",
   "ph_not_me": "هذا ليس أنا",
-  "ph_not_me_named": "لست {name}؟ أعد هذا المقعد"
+  "ph_not_me_named": "لست {name}؟ أعد هذا المقعد",
+  "questions_random_mix": "أسئلة عشوائية",
+  "questions_choose": "اختر الفئات",
+  "questions_random_hint": "تأتي الأسئلة عشوائيًا من كل الفئات ({n} سؤالًا متاحًا).",
+  "questions_include_clips": "تضمين الأغاني ومقاطع الفيديو",
+  "change_starter_hint_later": "يبدأ بطل السلسلة افتراضيًا. اضغط على اسم لاختيار لاعب آخر، أو اختر عشوائيًا.",
+  "starter_pick_random": "اختيار عشوائي"
 }
