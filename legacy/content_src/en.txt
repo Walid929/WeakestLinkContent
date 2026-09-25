@@ -1,0 +1,172 @@
+# cat|difficulty(1-3, F = also good for head-to-head)|question|answer|wrong1;wrong2;wrong3
+science|1|What is the chemical symbol for gold?|Au|Ag;Go;Gd
+science|1|How many legs does a spider have?|Eight|Six;Ten;Twelve
+science|1|What planet is known as the Red Planet?|Mars|Venus;Jupiter;Mercury
+science|1|What gas do plants absorb from the air to make food?|Carbon dioxide|Oxygen;Nitrogen;Helium
+science|1|What is the largest organ of the human body?|The skin|The liver;The brain;The lungs
+science|1|At sea level, water boils at how many degrees Celsius?|100|90;110;212
+science|1|What is the hardest natural substance?|Diamond|Quartz;Granite;Iron
+science|1|Which planet is closest to the Sun?|Mercury|Venus;Mars;Earth
+science|2|What is the chemical symbol for sodium?|Na|So;Sd;S
+science|2|How many bones are in the adult human body?|206|186;212;306
+science|2|Which blood cells help fight infection?|White blood cells|Red blood cells;Platelets;Plasma cells
+science|2|What is the largest planet in our solar system?|Jupiter|Saturn;Neptune;Uranus
+science|2|What part of the cell contains most of its DNA?|The nucleus|The membrane;The ribosome;The cytoplasm
+science|2|What is the freezing point of water in Fahrenheit?|32 degrees|0 degrees;10 degrees;100 degrees
+science|2F|What is the most abundant gas in Earth's atmosphere?|Nitrogen|Oxygen;Carbon dioxide;Argon
+science|2|Which scientist proposed the theory of general relativity?|Albert Einstein|Isaac Newton;Niels Bohr;Galileo Galilei
+science|2|What is the name of the force that keeps us on the ground?|Gravity|Friction;Magnetism;Inertia
+science|2|Which vitamin does the body make when skin is exposed to sunlight?|Vitamin D|Vitamin C;Vitamin A;Vitamin B12
+science|2|What is H2O more commonly called?|Water|Salt;Hydrogen peroxide;Ammonia
+science|2F|What is the only mammal capable of true flight?|The bat|The flying squirrel;The sugar glider;The colugo
+science|2|What do bees collect from flowers to make honey?|Nectar|Pollen;Sap;Resin
+science|2|Which organ pumps blood around the body?|The heart|The liver;The kidneys;The lungs
+science|3|What is the chemical symbol for potassium?|K|P;Po;Pt
+science|3F|What is the atomic number of carbon?|6|8;12;4
+science|3|Which planet has the most extensive ring system?|Saturn|Jupiter;Uranus;Neptune
+science|3|Which scientist discovered penicillin in 1928?|Alexander Fleming|Louis Pasteur;Marie Curie;Joseph Lister
+science|3|What is the speed of light, to the nearest thousand kilometres per second?|300,000 km/s|150,000 km/s;30,000 km/s;3,000,000 km/s
+science|3F|Which element has the chemical symbol Fe?|Iron|Fluorine;Lead;Tin
+science|1|What is the largest ocean on Earth?|The Pacific Ocean|The Atlantic Ocean;The Indian Ocean;The Arctic Ocean
+science|1|What animal is known as the king of the jungle?|The lion|The tiger;The elephant;The gorilla
+science|2|What is a baby kangaroo called?|A joey|A cub;A kid;A pup
+science|2|How many teeth does an adult human normally have?|32|28;30;36
+science|2F|What is the tallest animal in the world?|The giraffe|The elephant;The ostrich;The camel
+science|3|What type of animal is a Komodo dragon?|A lizard|A snake;A crocodile;A turtle
+places|1|What is the capital of France?|Paris|Lyon;Marseille;Nice
+places|1|What is the capital of Japan?|Tokyo|Osaka;Kyoto;Hiroshima
+places|1|On which continent is Egypt?|Africa|Asia;Europe;South America
+places|1|What is the longest river in Africa?|The Nile|The Congo;The Niger;The Zambezi
+places|1|In which country is the Taj Mahal?|India|Pakistan;Bangladesh;Nepal
+places|2|What is the capital of Australia?|Canberra|Sydney;Melbourne;Perth
+places|2|What is the capital of Canada?|Ottawa|Toronto;Vancouver;Montreal
+places|2F|Which is the largest country in the world by area?|Russia|Canada;China;United States
+places|2|Which desert is the largest hot desert in the world?|The Sahara|The Gobi;The Kalahari;The Arabian Desert
+places|2|What is the tallest mountain in the world?|Mount Everest|K2;Kangchenjunga;Mont Blanc
+places|2|Which river flows through London?|The Thames|The Seine;The Severn;The Danube
+places|2|What is the capital of Italy?|Rome|Milan;Venice;Naples
+places|2F|What is the smallest country in the world?|Vatican City|Monaco;San Marino;Liechtenstein
+places|2|Which US state is known as the Sunshine State?|Florida|California;Texas;Arizona
+places|2|In which city is the Statue of Liberty?|New York|Washington, D.C.;Boston;Philadelphia
+places|2|What is the capital of Spain?|Madrid|Barcelona;Seville;Valencia
+places|2|Which country is home to the city of Marrakesh?|Morocco|Tunisia;Algeria;Egypt
+places|2|Which ocean lies between Africa and Australia?|The Indian Ocean|The Pacific Ocean;The Atlantic Ocean;The Southern Ocean
+places|3|What is the capital of Turkey?|Ankara|Istanbul;Izmir;Antalya
+places|3F|What is the capital of Brazil?|Brasilia|Rio de Janeiro;Sao Paulo;Salvador
+places|3|Which country has the most natural lakes?|Canada|Russia;Finland;United States
+places|3|Which strait separates Spain from Morocco?|The Strait of Gibraltar|The Bosphorus;The Strait of Hormuz;The Strait of Messina
+places|3|What is the capital of New Zealand?|Wellington|Auckland;Christchurch;Hamilton
+places|3F|Which African country was formerly called Abyssinia?|Ethiopia|Eritrea;Somalia;Sudan
+places|1|How many continents are there?|Seven|Five;Six;Eight
+places|2|Mount Kilimanjaro is in which country?|Tanzania|Kenya;Uganda;Ethiopia
+places|2|Which European city is famous for its canals and gondolas?|Venice|Amsterdam;Bruges;Florence
+places|2|What is the currency of Japan?|The yen|The yuan;The won;The ringgit
+places|3|Which country has the largest population in Africa?|Nigeria|Egypt;Ethiopia;South Africa
+places|3|What is the capital of Kenya?|Nairobi|Mombasa;Kampala;Addis Ababa
+history|1|In which year did the Titanic sink?|1912|1905;1915;1920
+history|1|Who was the first President of the United States?|George Washington|Abraham Lincoln;Thomas Jefferson;John Adams
+history|2|In which year did World War II end?|1945|1944;1946;1939
+history|2|Who was the first person to walk on the Moon?|Neil Armstrong|Buzz Aldrin;Yuri Gagarin;Michael Collins
+history|2F|In which year did the Berlin Wall fall?|1989|1991;1987;1985
+history|2|Which ancient civilization built the pyramids of Giza?|The ancient Egyptians|The Romans;The Greeks;The Persians
+history|2|Who was the first person to travel into space?|Yuri Gagarin|Neil Armstrong;Alan Shepard;John Glenn
+history|2|Which empire was ruled by Julius Caesar?|The Roman Empire|The Greek Empire;The Persian Empire;The Ottoman Empire
+history|2|In which country did the Industrial Revolution begin?|Great Britain|France;Germany;United States
+history|2|Who painted the ceiling of the Sistine Chapel?|Michelangelo|Leonardo da Vinci;Raphael;Donatello
+history|2F|Which ship carried the Pilgrims to America in 1620?|The Mayflower|The Santa Maria;The Endeavour;The Beagle
+history|2|Who was the British Prime Minister for most of World War II?|Winston Churchill|Neville Chamberlain;Clement Attlee;Anthony Eden
+history|3|In which year did Christopher Columbus first reach the Americas?|1492|1498;1488;1507
+history|3F|Which queen ruled the United Kingdom for over 70 years until 2022?|Elizabeth II|Victoria;Mary II;Anne
+history|3|Which city was the capital of the Byzantine Empire?|Constantinople|Rome;Athens;Alexandria
+history|3|Who wrote the Communist Manifesto with Karl Marx?|Friedrich Engels|Vladimir Lenin;Leon Trotsky;Joseph Stalin
+history|3|In which year did the French Revolution begin?|1789|1776;1799;1812
+history|3|Which war was fought between the North and South of the United States?|The American Civil War|The War of 1812;The Revolutionary War;The Spanish-American War
+history|2|Which country gifted the Statue of Liberty to the United States?|France|Britain;Spain;Italy
+history|2|Who was known as the Maid of Orleans?|Joan of Arc|Marie Antoinette;Catherine de Medici;Eleanor of Aquitaine
+history|3|Which Egyptian queen was the last active ruler of the Ptolemaic Kingdom?|Cleopatra|Nefertiti;Hatshepsut;Nefertari
+history|3F|Which famous explorer's expedition was the first to sail around the world?|Ferdinand Magellan's|Vasco da Gama's;James Cook's;Francis Drake's
+history|2|Which country was led by Napoleon Bonaparte?|France|Italy;Spain;Austria
+history|2|The ancient Olympic Games began in which country?|Greece|Italy;Egypt;Turkey
+arts|1|Who wrote Romeo and Juliet?|William Shakespeare|Charles Dickens;Jane Austen;Christopher Marlowe
+arts|1|Who painted the Mona Lisa?|Leonardo da Vinci|Michelangelo;Vincent van Gogh;Pablo Picasso
+arts|1|How many strings does a standard guitar have?|Six|Four;Five;Eight
+arts|2|Who wrote the Harry Potter books?|J.K. Rowling|Roald Dahl;C.S. Lewis;Philip Pullman
+arts|2|Which artist cut off part of his own ear?|Vincent van Gogh|Pablo Picasso;Claude Monet;Salvador Dali
+arts|2F|Who wrote Pride and Prejudice?|Jane Austen|Charlotte Bronte;Emily Bronte;George Eliot
+arts|2|Which instrument has 88 keys?|The piano|The organ;The accordion;The harpsichord
+arts|2|Who composed the Moonlight Sonata?|Ludwig van Beethoven|Wolfgang Amadeus Mozart;Johann Sebastian Bach;Frederic Chopin
+arts|2|In which city is the Louvre museum?|Paris|London;Rome;Madrid
+arts|2|Who wrote the novel Nineteen Eighty-Four?|George Orwell|Aldous Huxley;Ray Bradbury;H.G. Wells
+arts|2F|Which Dutch artist painted The Night Watch?|Rembrandt|Vermeer;Van Gogh;Rubens
+arts|2|What is the name of the fairy in Peter Pan?|Tinker Bell|Silvermist;Fawn;Periwinkle
+arts|2|Who wrote the play Hamlet?|William Shakespeare|Ben Jonson;Oscar Wilde;George Bernard Shaw
+arts|3|Which Spanish artist co-founded the Cubist movement?|Pablo Picasso|Salvador Dali;Joan Miro;Francisco Goya
+arts|3F|Who wrote the novel Don Quixote?|Miguel de Cervantes|Gabriel Garcia Marquez;Lope de Vega;Jorge Luis Borges
+arts|3|Which composer wrote The Four Seasons?|Antonio Vivaldi|Johann Sebastian Bach;George Frideric Handel;Joseph Haydn
+arts|3|In which novel does the character Captain Ahab appear?|Moby-Dick|Treasure Island;Robinson Crusoe;The Old Man and the Sea
+arts|3|Who wrote One Hundred Years of Solitude?|Gabriel Garcia Marquez|Isabel Allende;Mario Vargas Llosa;Pablo Neruda
+arts|3F|Which Russian author wrote War and Peace?|Leo Tolstoy|Fyodor Dostoevsky;Anton Chekhov;Ivan Turgenev
+arts|2|Who is the author of The Adventures of Tom Sawyer?|Mark Twain|Charles Dickens;Herman Melville;Jack London
+arts|2|Which fictional detective lives at 221B Baker Street?|Sherlock Holmes|Hercule Poirot;Miss Marple;Inspector Morse
+arts|1|How many musicians play in a quartet?|Four|Three;Five;Six
+arts|2|Which famous ballet features a Sugar Plum Fairy?|The Nutcracker|Swan Lake;Sleeping Beauty;Giselle
+arts|3|Which Italian composer wrote the opera La Traviata?|Giuseppe Verdi|Giacomo Puccini;Gioachino Rossini;Vincenzo Bellini
+sport|1|How many players are on a football (soccer) team on the pitch?|Eleven|Ten;Nine;Twelve
+sport|1|In which sport would you perform a slam dunk?|Basketball|Volleyball;Tennis;Handball
+sport|1|How many rings are on the Olympic flag?|Five|Four;Six;Seven
+sport|2|How often are the Summer Olympic Games normally held?|Every four years|Every two years;Every three years;Every five years
+sport|2|In tennis, what is a score of zero called?|Love|Nil;Duck;Zero
+sport|2F|Which country won the first FIFA World Cup in 1930?|Uruguay|Brazil;Argentina;Italy
+sport|2|How many points is a touchdown worth in American football?|Six|Three;Seven;Five
+sport|2|In which sport is the term 'hole in one' used?|Golf|Cricket;Bowling;Polo
+sport|2|How long is a marathon, to the nearest kilometre?|42 kilometres|40 kilometres;45 kilometres;50 kilometres
+sport|2|What colour is the ball that scores most in snooker?|Black|Pink;Blue;Red
+sport|2|How many players are there in a volleyball team on court?|Six|Five;Seven;Eight
+sport|2F|Which country hosted the 2022 FIFA World Cup?|Qatar|Russia;Saudi Arabia;United Arab Emirates
+sport|3|How many players are on a rugby union team on the field?|15|13;11;12
+sport|3|Which tennis tournament is played on grass at the All England Club?|Wimbledon|The US Open;Roland Garros;The Australian Open
+sport|3F|In which city were the 2012 Summer Olympics held?|London|Beijing;Rio de Janeiro;Athens
+sport|3|How many squares are on a chessboard?|64|48;72;81
+sport|3|In boxing, what does KO stand for?|Knockout|Kick out;Keep out;Knock over
+sport|2|In which sport would you use a shuttlecock?|Badminton|Squash;Table tennis;Tennis
+sport|1|What is the maximum score with a single dart?|60|50;100;180
+sport|2|Which sport is played at the Tour de France?|Cycling|Running;Motor racing;Horse racing
+sport|3|How many minutes are in a standard football (soccer) match, excluding stoppage time?|90|80;100;120
+sport|3|In which country did the sport of judo originate?|Japan|China;Korea;Thailand
+general|1|How many days are there in a leap year?|366|365;364;367
+general|1|What colour do you get by mixing blue and yellow?|Green|Purple;Orange;Brown
+general|1|How many hours are in a day?|24|12;20;48
+general|1|What is the opposite of 'north'?|South|East;West;Up
+general|1|How many sides does a triangle have?|Three|Four;Five;Six
+general|1|Which month has the fewest days?|February|April;June;November
+general|2|How many minutes are in a day?|1,440|1,240;1,400;1,640
+general|2|What is 12 multiplied by 12?|144|124;132;156
+general|2F|How many sides does a hexagon have?|Six|Five;Seven;Eight
+general|2|What is the square root of 81?|9|8;7;11
+general|2|How many weeks are in a year?|52|48;50;56
+general|2|What is the Roman numeral for 50?|L|C;D;X
+general|2|What is the main ingredient in guacamole?|Avocado|Tomato;Pea;Cucumber
+general|2|In the alphabet, which letter comes after 'P'?|Q|R;O;S
+general|2|What is the name for a group of lions?|A pride|A pack;A herd;A flock
+general|2F|How many zeros are there in one million?|Six|Five;Seven;Nine
+general|2|What is the name of the longest bone in the human body?|The femur|The tibia;The humerus;The spine
+general|3|What is the Roman numeral for 1,000?|M|C;D;K
+general|3|What is 15% of 200?|30|15;20;35
+general|3F|How many degrees are in a right angle?|90|45;180;360
+general|3|Which is the most widely spoken first language in the world?|Mandarin Chinese|English;Spanish;Hindi
+general|3|What is the name of the calendar introduced in 1582 and used by most of the world today?|The Gregorian calendar|The Julian calendar;The Lunar calendar;The Mayan calendar
+general|3|How many seconds are in one hour?|3,600|360;6,000;36,000
+general|2|What is the plural of 'mouse'?|Mice|Mouses;Meese;Mousen
+general|2|What do you call a word that reads the same backwards, like 'level'?|A palindrome|An anagram;A homonym;An acronym
+general|3F|What is the largest number that can be written with two digits?|99|98;100;90
+general|1|What is frozen water called?|Ice|Steam;Snow;Dew
+general|2|How many colours are in a rainbow?|Seven|Six;Five;Eight
+general|3|In which month is Halloween celebrated?|October|September;November;December
+science|2|Which planet is famous for its Great Red Spot?|Jupiter|Mars;Saturn;Neptune
+science|3|What is the powerhouse of the cell?|The mitochondria|The nucleus;The ribosome;The Golgi apparatus
+science|3|What is the name of the galaxy that contains our solar system?|The Milky Way|Andromeda;The Whirlpool;Triangulum
+places|2|Which is the longest river in South America?|The Amazon|The Parana;The Orinoco;The Magdalena
+places|3|Which city is known as the Big Apple?|New York|Chicago;Los Angeles;Boston
+history|3|Who was the first woman to win a Nobel Prize?|Marie Curie|Florence Nightingale;Rosalind Franklin;Ada Lovelace
+arts|2|Which band recorded the album Abbey Road?|The Beatles|The Rolling Stones;Queen;Pink Floyd
+sport|2|How many holes are played in a standard round of golf?|18|9;12;21

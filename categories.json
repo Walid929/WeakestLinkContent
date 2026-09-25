@@ -1,0 +1,197 @@
+{
+ "schemaVersion": 1,
+ "categories": [
+  {
+   "id": "general",
+   "name": {
+    "en": "General Knowledge",
+    "ar": "معلومات عامة"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "capitals",
+   "name": {
+    "en": "Capitals",
+    "ar": "عواصم"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "flags",
+   "name": {
+    "en": "Flags",
+    "ar": "أعلام"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "maps",
+   "name": {
+    "en": "Maps",
+    "ar": "خرائط"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "geography",
+   "name": {
+    "en": "Geography",
+    "ar": "جغرافيا"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "history",
+   "name": {
+    "en": "History",
+    "ar": "تاريخ"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "landmarks",
+   "name": {
+    "en": "Landmarks",
+    "ar": "معالم سياحية"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "animals",
+   "name": {
+    "en": "Animal World",
+    "ar": "عالم الحيوانات"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "sports",
+   "name": {
+    "en": "Sports",
+    "ar": "رياضة"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "ucl",
+   "name": {
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "football",
+   "name": {
+    "en": "Football Missing Detail",
+    "ar": "المعلومة الكروية المفقودة"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "technology",
+   "name": {
+    "en": "Technology",
+    "ar": "تكنولوجيا"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "riddles",
+   "name": {
+    "en": "Riddles",
+    "ar": "ألغاز"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "brands",
+   "name": {
+    "en": "Brands",
+    "ar": "ماركات"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "logos",
+   "name": {
+    "en": "Logos",
+    "ar": "شعارات"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "q8logos",
+   "name": {
+    "en": "Kuwaiti Logos",
+    "ar": "شعارات كويتية"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "restaurants",
+   "name": {
+    "en": "Restaurants",
+    "ar": "مطاعم"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "cuisine",
+   "name": {
+    "en": "World Cuisine",
+    "ar": "مطابخ عالمية"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "grocery",
+   "name": {
+    "en": "Products",
+    "ar": "منتجات"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "cosmetics",
+   "name": {
+    "en": "Cosmetics",
+    "ar": "مستحضرات التجميل"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "picture",
+   "name": {
+    "en": "Solve the Picture",
+    "ar": "خمن الصورة"
+   },
+   "defaultOn": true
+  },
+  {
+   "id": "movies",
+   "name": {
+    "en": "Movies & Series",
+    "ar": "أفلام ومسلسلات"
+   },
+   "defaultOn": false
+  },
+  {
+   "id": "songs",
+   "name": {
+    "en": "Songs",
+    "ar": "أغاني"
+   },
+   "defaultOn": false
+  },
+  {
+   "id": "foreignsongs",
+   "name": {
+    "en": "Foreign Songs",
+    "ar": "أغاني أجنبية"
+   },
+   "defaultOn": false
+  }
+ ]
+}

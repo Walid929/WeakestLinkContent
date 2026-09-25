@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.09.24-csv",
+  "rules": "rules.json",
+  "categories": "categories.json",
+  "translations": {
+    "en": "translations/en.json",
+    "ar": "translations/ar.json"
+  },
+  "questions": {
+    "en": [
+      "questions/en.json"
+    ],
+    "ar": [
+      "questions/ar.json"
+    ]
+  }
+}
