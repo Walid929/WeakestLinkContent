@@ -5,7 +5,10 @@
   "formats": [
     {
       "id": "nbc2001",
-      "name": { "en": "NBC Primetime (2001-02)", "ar": "النسخة الأمريكية الأصلية (2001-2002)" },
+      "name": {
+        "en": "Classic",
+        "ar": "الكلاسيكية"
+      },
       "description": {
         "en": "Up to 8 players. Chain to $125,000. Rounds start at 2:30 and lose 10 seconds each. The last two play a 90-second round where every banked dollar is doubled, then go head to head (5 questions each).",
         "ar": "حتى 8 لاعبين. السلسلة تصل إلى 125,000$. الجولة الأولى دقيقتان ونصف وتنقص 10 ثوانٍ كل جولة. آخر لاعبَين يلعبان جولة من 90 ثانية يُضاعَف فيها كل ما يُودَع، ثم المواجهة المباشرة (5 أسئلة لكل لاعب)."
@@ -16,12 +19,35 @@
       "elimination": true,
       "fixedRounds": 0,
       "chains": [
-        [1000, 2500, 5000, 10000, 25000, 50000, 75000, 125000]
+        [
+          1000,
+          2500,
+          5000,
+          10000,
+          25000,
+          50000,
+          75000,
+          125000
+        ]
       ],
-      "roundSeconds": [150, 140, 130, 120, 110, 100],
+      "roundSeconds": [
+        150,
+        140,
+        130,
+        120,
+        110,
+        100
+      ],
       "scheduleAlignment": "end",
-      "finalBankRound": { "enabled": true, "seconds": 90, "multiplier": 2 },
-      "headToHead": { "questionsEach": 5, "suddenDeath": true },
+      "finalBankRound": {
+        "enabled": true,
+        "seconds": 90,
+        "multiplier": 2
+      },
+      "headToHead": {
+        "questionsEach": 5,
+        "suddenDeath": true
+      },
       "firstRoundStarter": "alphabetical",
       "whoCanBank": "current_player",
       "autoBankFullChain": true,
@@ -29,7 +55,10 @@
     },
     {
       "id": "syndicated2002",
-      "name": { "en": "Syndicated (2002-03)", "ar": "النسخة اليومية (2002-2003)" },
+      "name": {
+        "en": "Quick Fire",
+        "ar": "السريعة"
+      },
       "description": {
         "en": "Up to 6 players, faster rounds: 1:45 losing 15 seconds a round. Chain to $12,500. A 45-second double-stakes round for the last two, then 3 head-to-head questions each.",
         "ar": "حتى 6 لاعبين وجولات أسرع: دقيقة و45 ثانية وتنقص 15 ثانية كل جولة. السلسلة حتى 12,500$. جولة مضاعفة من 45 ثانية لآخر لاعبَين، ثم 3 أسئلة مواجهة لكل لاعب."
@@ -40,12 +69,31 @@
       "elimination": true,
       "fixedRounds": 0,
       "chains": [
-        [250, 500, 1000, 2500, 5000, 12500]
+        [
+          250,
+          500,
+          1000,
+          2500,
+          5000,
+          12500
+        ]
       ],
-      "roundSeconds": [105, 90, 75, 60],
+      "roundSeconds": [
+        105,
+        90,
+        75,
+        60
+      ],
       "scheduleAlignment": "end",
-      "finalBankRound": { "enabled": true, "seconds": 45, "multiplier": 2 },
-      "headToHead": { "questionsEach": 3, "suddenDeath": true },
+      "finalBankRound": {
+        "enabled": true,
+        "seconds": 45,
+        "multiplier": 2
+      },
+      "headToHead": {
+        "questionsEach": 3,
+        "suddenDeath": true
+      },
       "firstRoundStarter": "alphabetical",
       "whoCanBank": "current_player",
       "autoBankFullChain": true,
@@ -53,7 +101,10 @@
     },
     {
       "id": "nbc2020",
-      "name": { "en": "NBC Revival (2020)", "ar": "النسخة الجديدة (2020)" },
+      "name": {
+        "en": "High Stakes",
+        "ar": "الرهان الكبير"
+      },
       "description": {
         "en": "Up to 8 players. The money chain grows every round, from a $25,000 target to $500,000 in the last round. No double round: the final vote leads straight to the head to head.",
         "ar": "حتى 8 لاعبين. سلسلة المال تكبر كل جولة، من هدف 25,000$ إلى 500,000$ في الجولة الأخيرة. لا توجد جولة مضاعفة: التصويت الأخير يقود مباشرة إلى المواجهة."
@@ -64,17 +115,85 @@
       "elimination": true,
       "fixedRounds": 0,
       "chains": [
-        [1000, 2000, 3000, 4000, 5000, 7500, 10000, 25000],
-        [1000, 2500, 5000, 7500, 10000, 15000, 25000, 50000],
-        [1000, 2500, 5000, 7500, 10000, 25000, 50000, 75000],
-        [2500, 5000, 7500, 10000, 25000, 50000, 75000, 100000],
-        [2500, 5000, 10000, 25000, 50000, 75000, 100000, 250000],
-        [2500, 5000, 10000, 25000, 50000, 100000, 250000, 500000]
+        [
+          1000,
+          2000,
+          3000,
+          4000,
+          5000,
+          7500,
+          10000,
+          25000
+        ],
+        [
+          1000,
+          2500,
+          5000,
+          7500,
+          10000,
+          15000,
+          25000,
+          50000
+        ],
+        [
+          1000,
+          2500,
+          5000,
+          7500,
+          10000,
+          25000,
+          50000,
+          75000
+        ],
+        [
+          2500,
+          5000,
+          7500,
+          10000,
+          25000,
+          50000,
+          75000,
+          100000
+        ],
+        [
+          2500,
+          5000,
+          10000,
+          25000,
+          50000,
+          75000,
+          100000,
+          250000
+        ],
+        [
+          2500,
+          5000,
+          10000,
+          25000,
+          50000,
+          100000,
+          250000,
+          500000
+        ]
       ],
-      "roundSeconds": [150, 140, 130, 120, 110, 100],
+      "roundSeconds": [
+        150,
+        140,
+        130,
+        120,
+        110,
+        100
+      ],
       "scheduleAlignment": "end",
-      "finalBankRound": { "enabled": false, "seconds": 0, "multiplier": 1 },
-      "headToHead": { "questionsEach": 5, "suddenDeath": true },
+      "finalBankRound": {
+        "enabled": false,
+        "seconds": 0,
+        "multiplier": 1
+      },
+      "headToHead": {
+        "questionsEach": 5,
+        "suddenDeath": true
+      },
       "firstRoundStarter": "alphabetical",
       "whoCanBank": "current_player",
       "autoBankFullChain": true,
@@ -82,10 +201,13 @@
     },
     {
       "id": "family",
-      "name": { "en": "Family Board Game", "ar": "لعبة العائلة" },
+      "name": {
+        "en": "Family",
+        "ar": "العائلية"
+      },
       "description": {
-        "en": "Nobody leaves. Each 2-minute round ends with a vote and the Weakest Link gets a token. After the set number of rounds, the two players with the fewest tokens go head to head (best of 5, then sudden death).",
-        "ar": "لا أحد يغادر. كل جولة مدتها دقيقتان وتنتهي بتصويت، ويأخذ الحلقة الأضعف شارة. بعد عدد الجولات المحدد، يتواجه اللاعبان الأقل شارات (أفضل 5 أسئلة، ثم الموت المفاجئ)."
+        "en": "Nobody leaves. Each 2-minute round ends with a vote and the Chain Breaker gets a token. After the set number of rounds, the two players with the fewest tokens go head to head (best of 5, then sudden death).",
+        "ar": "لا أحد يغادر. كل جولة مدتها دقيقتان وتنتهي بتصويت، ويأخذ كاسر السلسلة شارة. بعد عدد الجولات المحدد، يتواجه اللاعبان الأقل شارات (أفضل 5 أسئلة، ثم الموت المفاجئ)."
       },
       "currency": "£",
       "minPlayers": 3,
@@ -93,12 +215,30 @@
       "elimination": false,
       "fixedRounds": 5,
       "chains": [
-        [50, 100, 200, 300, 400, 500, 750, 1000]
+        [
+          50,
+          100,
+          200,
+          300,
+          400,
+          500,
+          750,
+          1000
+        ]
       ],
-      "roundSeconds": [120],
+      "roundSeconds": [
+        120
+      ],
       "scheduleAlignment": "start",
-      "finalBankRound": { "enabled": false, "seconds": 0, "multiplier": 1 },
-      "headToHead": { "questionsEach": 5, "suddenDeath": true },
+      "finalBankRound": {
+        "enabled": false,
+        "seconds": 0,
+        "multiplier": 1
+      },
+      "headToHead": {
+        "questionsEach": 5,
+        "suddenDeath": true
+      },
       "firstRoundStarter": "random",
       "whoCanBank": "current_player",
       "autoBankFullChain": true,
