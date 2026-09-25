@@ -87,15 +87,7 @@ Notes on accuracy: the NBC 2001, syndicated and 2020 money chains come from the 
 
 `translations/en.json` and `translations/ar.json` must have the same keys. `{name}`-style placeholders are filled in by the game; keep them in both languages. Keys starting with `tv_` appear on the TV and `ph_` on the phones. Everything else is on the host device (some are shared).
 
-## Publishing
 
-```
-git init
-git add .
-git commit -m "Weakest Link content"
-git branch -M main
-git remote add origin https://github.com/Walid929/WeakestLinkContent.git
-git push -u origin main
 ```
 
 The repository must be **public** so the game can read it without logging in.
