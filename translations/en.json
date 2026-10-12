@@ -296,5 +296,13 @@
   "tv_connecting": "Connecting to the ChainQuest server…",
   "tv_server_lost": "Lost the connection to the server - reconnecting…",
   "room_missing_title": "This game has ended",
-  "room_missing_hint": "Scan the QR code on the TV again to join the current game."
+  "room_missing_hint": "Scan the QR code on the TV again to join the current game.",
+  "mode_typed": "Type the answer - the host judges",
+  "mode_typed_desc": "The player whose turn it is types the answer on their phone. It shows on the host's screen and on the TV, and the host taps Correct or Wrong - spelling and wording don't matter.",
+  "ph_type_answer": "Type your answer",
+  "ph_send_answer": "Send answer",
+  "ph_answer_sent": "Sent: {answer} - the host will judge it. You can still change it.",
+  "hp_typed": "{name} typed:",
+  "hp_waiting_typed": "Waiting for {name} to type an answer… (you can also judge an answer said out loud)",
+  "tv_typed": "{name}: {answer}"
 }
