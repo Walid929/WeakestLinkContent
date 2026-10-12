@@ -21,6 +21,8 @@ If GitHub can't be reached, the game uses its last successful download, and fail
 | `categories.json` | Question categories with their English and Arabic names, and whether each is on by default. |
 | `translations/en.json`, `translations/ar.json` | Every piece of text on the host device, the TV and the phones. |
 | `questions/en.json`, `questions/ar.json` | The question banks. English games use the English bank, Arabic games use the Arabic bank. |
+| `guide/guide.json` | The "How to play" guide: every topic's text in English and Arabic, plus its animation settings. |
+| `comic/comic.js` | The "Comic: how to play" flipbook (all pages, both languages). |
 | `tools/import_csv.py` | Rebuilds the three files above from a questions export CSV. |
 | `legacy/` | The first hand-written question set (no longer loaded). |
 
@@ -86,6 +88,21 @@ Notes on accuracy: the NBC 2001, syndicated and 2020 money chains come from the 
 ## Translations
 
 `translations/en.json` and `translations/ar.json` must have the same keys. `{name}`-style placeholders are filled in by the game; keep them in both languages. Keys starting with `tv_` appear on the TV and `ph_` on the phones. Everything else is on the host device (some are shared).
+
+## How to play guide and comic
+
+Both are read from here like everything else, so a text fix is just *edit, commit, push* – no new app.
+The apps pick up the change the next time they start (the online server within its refresh interval).
+
+- **Guide** (`guide/guide.json`): don't edit by hand. Edit `ChainQuestServer/tools/guide/content.py`
+  (every text is `L("English", "Arabic")`), then run `python build.py` in that folder – it writes this
+  file for you. Then push this repository.
+- **Comic** (`comic/comic.js`): edit `C:\Claude projects\WeakestLink\comics\flipbook\comic.js`
+  (every text is `L('English', 'Arabic')`), check it with `ChainQuest-Comic.html`, then run
+  `update-projects.ps1` in that folder – it copies it here. Then push this repository.
+
+A file that is missing or broken is ignored: the apps keep the last good download, or the copy built
+into them. New *kinds* of guide animation still need an app update; new or changed text never does.
 
 ## Publishing
 

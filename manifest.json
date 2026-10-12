@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.09.24-csv",
+  "contentVersion": "2026.10.12-help",
   "rules": "rules.json",
   "categories": "categories.json",
   "translations": {
@@ -14,5 +14,7 @@
     "ar": [
       "questions/ar.json"
     ]
-  }
+  },
+  "guide": "guide/guide.json",
+  "comic": "comic/comic.js"
 }

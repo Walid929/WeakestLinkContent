@@ -1,0 +1,1542 @@
+{
+ "version": 1,
+ "ui": {
+  "button": {
+   "en": "How to play",
+   "ar": "طريقة اللعب"
+  },
+  "title": {
+   "en": "How to play",
+   "ar": "طريقة اللعب"
+  },
+  "intro": {
+   "en": "Every option the host can use: what it does, where to change it and when it's worth changing. Tap a topic, or take the tour from the start.",
+   "ar": "كل خيار يستطيع المقدّم استخدامه: ماذا يفعل، وأين تغيّره، ومتى يستحق التغيير. اضغط على موضوع، أو ابدأ الجولة التعريفية من البداية."
+  },
+  "tour": {
+   "en": "Start the tour",
+   "ar": "ابدأ الجولة التعريفية"
+  },
+  "what": {
+   "en": "What it does",
+   "ar": "ماذا يفعل"
+  },
+  "how": {
+   "en": "How to change it",
+   "ar": "كيف تغيّره"
+  },
+  "why": {
+   "en": "Why change it",
+   "ar": "لماذا تغيّره"
+  },
+  "where": {
+   "en": "Where",
+   "ar": "المكان"
+  },
+  "prev": {
+   "en": "Previous",
+   "ar": "السابق"
+  },
+  "next": {
+   "en": "Next",
+   "ar": "التالي"
+  },
+  "topics": {
+   "en": "All topics",
+   "ar": "كل المواضيع"
+  },
+  "close": {
+   "en": "Close",
+   "ar": "إغلاق"
+  },
+  "done": {
+   "en": "Done",
+   "ar": "تم"
+  },
+  "of": {
+   "en": "{n} of {m}",
+   "ar": "{n} من {m}"
+  },
+  "a_correct": {
+   "en": "Correct!",
+   "ar": "صحيح!"
+  },
+  "a_wrong": {
+   "en": "Wrong - the chain is lost",
+   "ar": "خطأ - ضاعت السلسلة"
+  },
+  "a_pass": {
+   "en": "Pass - counts as wrong",
+   "ar": "تمرير - يُحسب خطأ"
+  },
+  "a_bank": {
+   "en": "BANK!",
+   "ar": "إيداع!"
+  },
+  "a_auto": {
+   "en": "Full chain - banked automatically",
+   "ar": "سلسلة كاملة - أُودعت تلقائيًا"
+  },
+  "a_timeup": {
+   "en": "Time's up - unbanked money is lost",
+   "ar": "انتهى الوقت - يضيع ما لم يُودَع"
+  },
+  "a_bankbox": {
+   "en": "Bank",
+   "ar": "البنك"
+  },
+  "a_goodbye": {
+   "en": "Goodbye!",
+   "ar": "وداعًا!"
+  },
+  "a_token": {
+   "en": "+1 token - nobody leaves",
+   "ar": "+1 شارة - لا أحد يغادر"
+  },
+  "a_votes": {
+   "en": "Votes",
+   "ar": "الأصوات"
+  },
+  "a_tie": {
+   "en": "Tie! The Chain Champion decides",
+   "ar": "تعادل! القرار لبطل السلسلة"
+  },
+  "a_champion": {
+   "en": "Chain Champion",
+   "ar": "بطل السلسلة"
+  },
+  "a_sudden": {
+   "en": "Sudden death",
+   "ar": "الموت المفاجئ"
+  },
+  "a_winner": {
+   "en": "Winner!",
+   "ar": "الفائز!"
+  },
+  "a_on": {
+   "en": "On",
+   "ar": "مفعّل"
+  },
+  "a_off": {
+   "en": "Off",
+   "ar": "متوقف"
+  },
+  "a_starts": {
+   "en": "starts",
+   "ar": "يبدأ"
+  },
+  "a_joined": {
+   "en": "joined",
+   "ar": "انضم"
+  },
+  "a_host_added": {
+   "en": "added by host",
+   "ar": "أضافه المقدّم"
+  },
+  "a_your_turn": {
+   "en": "Your turn",
+   "ar": "دورك"
+  },
+  "a_sent": {
+   "en": "Sent",
+   "ar": "أُرسلت"
+  },
+  "a_speaks": {
+   "en": "says out loud",
+   "ar": "يجيب بصوت عالٍ"
+  },
+  "a_question": {
+   "en": "Which city is the capital of France?",
+   "ar": "ما عاصمة فرنسا؟"
+  },
+  "a_answer": {
+   "en": "Paris",
+   "ar": "باريس"
+  },
+  "a_options": [
+   {
+    "en": "Paris",
+    "ar": "باريس"
+   },
+   {
+    "en": "London",
+    "ar": "لندن"
+   },
+   {
+    "en": "Rome",
+    "ar": "روما"
+   },
+   {
+    "en": "Madrid",
+    "ar": "مدريد"
+   }
+  ],
+  "a_letters": [
+   {
+    "en": "P...",
+    "ar": "بـ..."
+   },
+   {
+    "en": "L...",
+    "ar": "لـ..."
+   },
+   {
+    "en": "R...",
+    "ar": "ر..."
+   },
+   {
+    "en": "M...",
+    "ar": "مـ..."
+   }
+  ],
+  "a_names": [
+   {
+    "en": "Sara",
+    "ar": "سارة"
+   },
+   {
+    "en": "Omar",
+    "ar": "عمر"
+   },
+   {
+    "en": "Lina",
+    "ar": "لينا"
+   },
+   {
+    "en": "Adam",
+    "ar": "آدم"
+   },
+   {
+    "en": "Noor",
+    "ar": "نور"
+   }
+  ],
+  "a_questions_n": {
+   "en": "{n} questions",
+   "ar": "{n} سؤالًا"
+  },
+  "a_tv_q_off": {
+   "en": "The question is only on your screen - read it out",
+   "ar": "السؤال على شاشتك فقط - اقرأه بصوت عالٍ"
+  },
+  "a_round": {
+   "en": "Round {n}",
+   "ar": "الجولة {n}"
+  },
+  "a_used": {
+   "en": "Used with fewer players",
+   "ar": "المستخدم عند قلة اللاعبين"
+  },
+  "a_last": {
+   "en": "Play the last rounds",
+   "ar": "العب الجولات الأخيرة"
+  },
+  "a_first": {
+   "en": "Play the first rounds",
+   "ar": "العب الجولات الأولى"
+  },
+  "a_doubled": {
+   "en": "Everything banked ×{x}",
+   "ar": "كل ما أُودِع ×{x}"
+  },
+  "a_target": {
+   "en": "Target reached - round over",
+   "ar": "تحقق الهدف - انتهت الجولة"
+  },
+  "a_start_clock": {
+   "en": "Start the clock",
+   "ar": "ابدأ الوقت"
+  },
+  "a_send": {
+   "en": "Send",
+   "ar": "إرسال"
+  },
+  "m_spoken": {
+   "en": "Out loud - the host judges",
+   "ar": "بصوت عالٍ - المقدّم يحكم"
+  },
+  "m_typed": {
+   "en": "Type the answer",
+   "ar": "كتابة الإجابة"
+  },
+  "m_choices4": {
+   "en": "Multiple choice",
+   "ar": "اختيار من متعدد"
+  },
+  "m_letters": {
+   "en": "First letters only",
+   "ar": "الحروف الأولى فقط"
+  },
+  "m_choices2": {
+   "en": "Junior - two options",
+   "ar": "للصغار - خياران"
+  },
+  "m_bank": {
+   "en": "The player banks from their phone",
+   "ar": "اللاعب يودِع من هاتفه"
+  },
+  "a_cats": [
+   {
+    "en": "Science",
+    "ar": "العلوم"
+   },
+   {
+    "en": "Sport",
+    "ar": "الرياضة"
+   },
+   {
+    "en": "History",
+    "ar": "التاريخ"
+   },
+   {
+    "en": "Music",
+    "ar": "الموسيقى"
+   },
+   {
+    "en": "Movies",
+    "ar": "الأفلام"
+   },
+   {
+    "en": "Geography",
+    "ar": "الجغرافيا"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "basics",
+   "title": {
+    "en": "The basics",
+    "ar": "الأساسيات"
+   },
+   "topics": [
+    {
+     "id": "overview",
+     "title": {
+      "en": "The game in one minute",
+      "ar": "اللعبة في دقيقة"
+     },
+     "where": {
+      "en": "Everywhere",
+      "ar": "في كل مكان"
+     },
+     "anim": {
+      "type": "flow",
+      "steps": [
+       {
+        "en": "Answer & bank",
+        "ar": "أجب وأودِع"
+       },
+       {
+        "en": "Vote",
+        "ar": "التصويت"
+       },
+       {
+        "en": "Goodbye",
+        "ar": "الوداع"
+       },
+       {
+        "en": "Head to head",
+        "ar": "المواجهة"
+       },
+       {
+        "en": "Winner",
+        "ar": "الفائز"
+       }
+      ]
+     },
+     "what": {
+      "en": "The players take turns answering questions against the clock. Every correct answer in a row climbs the money chain; one wrong answer and the unbanked chain is lost - so players shout BANK to save it first. After each round everyone votes for the Chain Breaker, who leaves the game. The last two go head to head, and the winner takes everything in the bank.",
+      "ar": "يتناوب اللاعبون على الإجابة عن الأسئلة ضد الوقت. كل إجابة صحيحة متتالية ترفع سلسلة المال، وإجابة خاطئة واحدة تُضيّع ما لم يُودَع - لذلك يطلب اللاعب «إيداع» ليحفظه أولًا. بعد كل جولة يصوّت الجميع على كاسر السلسلة فيغادر اللعبة. آخر لاعبَين يتواجهان مباشرة، والفائز يأخذ كل ما في البنك."
+     },
+     "how": {
+      "en": "You run everything from this screen. Set the game up on the home page (players, rules, answer mode, questions), tap Start the game, then judge each answer with Correct or Wrong.",
+      "ar": "تدير كل شيء من هذه الشاشة. جهّز اللعبة في الصفحة الرئيسية (اللاعبون، القواعد، طريقة الإجابة، الأسئلة)، ثم اضغط «ابدأ اللعبة» واحكم على كل إجابة بـ«صحيح» أو «خطأ»."
+     },
+     "why": {
+      "en": "Read this once before your first game. The rest of this guide explains every option, where to find it, and when it's worth changing - the defaults already play like the TV show.",
+      "ar": "اقرأ هذا مرة واحدة قبل أول لعبة. بقية الدليل تشرح كل خيار ومكانه ومتى يستحق التغيير - والإعدادات الافتراضية تلعب مثل البرنامج التلفزيوني تمامًا."
+     }
+    },
+    {
+     "id": "players",
+     "title": {
+      "en": "Getting players in",
+      "ar": "دخول اللاعبين"
+     },
+     "where": {
+      "en": "Home page (lobby) › Players",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ اللاعبون"
+     },
+     "anim": {
+      "type": "players",
+      "modes": [
+       "join"
+      ]
+     },
+     "what": {
+      "en": "Players scan the join QR code with their phone camera and type their name - they appear in the Players list. The light next to each name shows how they play: green = on their phone, grey = added by you (no phone), red = their phone lost the connection.",
+      "ar": "يمسح اللاعبون رمز QR للانضمام بكاميرا الهاتف ويكتبون أسماءهم فيظهرون في قائمة اللاعبين. اللون بجانب كل اسم يوضّح طريقة لعبه: أخضر = من هاتفه، رمادي = أضفته أنت (بلا هاتف)، أحمر = انقطع اتصال هاتفه."
+     },
+     "how": {
+      "en": "The join QR is on the TV (the phone app also shows it on the home page). For someone without a phone, type their name under Players and tap Add player. Tap Remove to take someone out before the game starts. A player whose light is red just scans the QR again.",
+      "ar": "رمز الانضمام يظهر على التلفاز (ويظهر أيضًا في الصفحة الرئيسية في تطبيق الهاتف). لمن ليس لديه هاتف، اكتب اسمه تحت «اللاعبون» واضغط «إضافة لاعب». اضغط «حذف» لإخراج لاعب قبل بدء اللعبة. اللاعب ذو اللون الأحمر يمسح الرمز مرة أخرى فقط."
+     },
+     "why": {
+      "en": "Phones are optional. When answers are said out loud, a player only needs a phone to vote - and you can vote for them. Mixing phone and phone-less players works fine, which is handy for grandparents and small children.",
+      "ar": "الهواتف اختيارية. عندما تكون الإجابات بصوت عالٍ لا يحتاج اللاعب الهاتف إلا للتصويت - ويمكنك أن تصوّت عنه. يمكن الجمع بين لاعبين بهواتف وآخرين بدونها، وهذا مفيد للأجداد والأطفال الصغار."
+     }
+    }
+   ]
+  },
+  {
+   "id": "lobby",
+   "title": {
+    "en": "Home page options",
+    "ar": "خيارات الصفحة الرئيسية"
+   },
+   "topics": [
+    {
+     "id": "format",
+     "title": {
+      "en": "Rules (game format)",
+      "ar": "القواعد (نوع اللعبة)"
+     },
+     "where": {
+      "en": "Home page (lobby) › Rules",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ القواعد"
+     },
+     "anim": {
+      "type": "control",
+      "kind": "cycle",
+      "label": {
+       "en": "Rules",
+       "ar": "القواعد"
+      },
+      "values": [
+       {
+        "en": "Classic",
+        "ar": "الكلاسيكية"
+       },
+       {
+        "en": "Quick Fire",
+        "ar": "السريعة"
+       },
+       {
+        "en": "High Stakes",
+        "ar": "الرهان الكبير"
+       },
+       {
+        "en": "Family",
+        "ar": "العائلية"
+       }
+      ]
+     },
+     "what": {
+      "en": "Chooses a ready-made set of rules. Classic: up to 8 players, chain to $125,000, a double-money round for the last two. Quick Fire: up to 6 players with short rounds. High Stakes: the chain grows every round, no double round. Family: nobody is voted off - the Chain Breaker collects a token instead.",
+      "ar": "يختار مجموعة قواعد جاهزة. الكلاسيكية: حتى 8 لاعبين، والسلسلة حتى 125,000$، وجولة مضاعفة لآخر لاعبَين. السريعة: حتى 6 لاعبين بجولات قصيرة. الرهان الكبير: السلسلة تكبر كل جولة ولا توجد جولة مضاعفة. العائلية: لا أحد يُقصى - يأخذ كاسر السلسلة شارة بدلًا من ذلك."
+     },
+     "how": {
+      "en": "On the home page, tap the ‹ and › arrows beside the rules name. The short description under it updates so you can see what you picked.",
+      "ar": "في الصفحة الرئيسية اضغط السهمين ‹ و › بجانب اسم القواعد. يتغيّر الوصف القصير تحته لترى ما اخترت."
+     },
+     "why": {
+      "en": "Pick by group and time: Quick Fire for a 20-minute game, Classic for the full show experience, High Stakes for big numbers, and Family when children play or nobody should sit out halfway.",
+      "ar": "اختر حسب المجموعة والوقت: السريعة للعبة مدتها 20 دقيقة، والكلاسيكية لتجربة البرنامج كاملة، والرهان الكبير للأرقام الكبيرة، والعائلية عندما يلعب الأطفال أو لا يجب أن يخرج أحد في المنتصف."
+     }
+    },
+    {
+     "id": "customize",
+     "title": {
+      "en": "Changing the rules",
+      "ar": "تعديل القواعد"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد"
+     },
+     "anim": {
+      "type": "buttons",
+      "items": [
+       {
+        "label": {
+         "en": "Change the rules",
+         "ar": "تعديل القواعد"
+        },
+        "color": "dark",
+        "note": {
+         "en": "Opens every setting of the chosen rules",
+         "ar": "يفتح كل إعدادات القواعد المختارة"
+        }
+       },
+       {
+        "label": {
+         "en": "Done",
+         "ar": "تم"
+        },
+        "color": "dark",
+        "note": {
+         "en": "Your changes show on the home page",
+         "ar": "تظهر تعديلاتك في الصفحة الرئيسية"
+        }
+       },
+       {
+        "label": {
+         "en": "Back to the original rules",
+         "ar": "العودة إلى القواعد الأصلية"
+        },
+        "color": "grey",
+        "note": {
+         "en": "Removes all your changes",
+         "ar": "يحذف كل تعديلاتك"
+        }
+       }
+      ]
+     },
+     "what": {
+      "en": "Opens the rules screen for the chosen format: players and rounds, clock, money and the final. Your changes are saved on this device for that format, and listed under \"Your changes\" on the home page.",
+      "ar": "يفتح شاشة القواعد للنوع المختار: اللاعبون والجولات، والوقت، والمال، والنهائي. تُحفظ تعديلاتك على هذا الجهاز لذلك النوع، وتظهر تحت «تعديلاتك» في الصفحة الرئيسية."
+     },
+     "how": {
+      "en": "Home page › Change the rules. Use − and + for numbers, tap a blue value to switch to the next choice, and tap On/Off to switch a feature. Tap Done when finished, or Back to the original rules to undo everything.",
+      "ar": "الصفحة الرئيسية ‹ تعديل القواعد. استخدم − و + للأرقام، واضغط على القيمة الزرقاء للانتقال إلى الخيار التالي، واضغط مفعّل/متوقف لتشغيل ميزة أو إيقافها. اضغط «تم» عند الانتهاء، أو «العودة إلى القواعد الأصلية» للتراجع عن كل شيء."
+     },
+     "why": {
+      "en": "Fit the game to your group: more players, shorter rounds, a smaller chain for kids. Anything you don't touch keeps following the official rules, including future updates.",
+      "ar": "لتناسب اللعبة مجموعتك: لاعبون أكثر، وجولات أقصر، وسلسلة أصغر للأطفال. وكل ما لا تغيّره يبقى على القواعد الرسمية، بما في ذلك التحديثات القادمة."
+     }
+    },
+    {
+     "id": "answermode",
+     "title": {
+      "en": "How players answer",
+      "ar": "طريقة الإجابة"
+     },
+     "where": {
+      "en": "Home page (lobby) › How players answer",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ طريقة الإجابة"
+     },
+     "anim": {
+      "type": "phone",
+      "modes": [
+       "spoken",
+       "typed",
+       "choices4",
+       "letters",
+       "choices2"
+      ]
+     },
+     "what": {
+      "en": "Out loud: you read the question, the player answers out loud and you judge. Type the answer: the player types on their phone, you see it and judge - spelling doesn't matter. Multiple choice: four answers on the player's phone; the app judges. First letters only: four options showing only their first letters. Junior: just two options.",
+      "ar": "بصوت عالٍ: تقرأ السؤال ويجيب اللاعب بصوته وأنت تحكم. كتابة الإجابة: يكتب اللاعب على هاتفه وتراها أنت وتحكم - لا يهم الإملاء. اختيار من متعدد: أربع إجابات على هاتف اللاعب والتطبيق يحكم. الحروف الأولى فقط: أربعة خيارات تظهر حروفها الأولى فقط. للصغار: خياران فقط."
+     },
+     "how": {
+      "en": "Home page › How players answer: tap the box and pick a mode. The line under it explains the mode you chose. You can change it before every game.",
+      "ar": "الصفحة الرئيسية ‹ طريقة الإجابة: اضغط على المربع واختر الطريقة. السطر تحته يشرح الطريقة التي اخترتها. يمكنك تغييرها قبل كل لعبة."
+     },
+     "why": {
+      "en": "Out loud is closest to the show and needs no phones. Type the answer suits noisy rooms, shy players and arguments about who said what. Multiple choice is easier and you don't have to judge. First letters is the hardest choice mode, and Junior is perfect for young children.",
+      "ar": "«بصوت عالٍ» الأقرب للبرنامج ولا يحتاج هواتف. «كتابة الإجابة» مناسبة للأماكن المزعجة واللاعبين الخجولين وحسم الخلاف على ما قيل. «الاختيار من متعدد» أسهل ولا تحتاج فيه للحكم. «الحروف الأولى» أصعب طرق الاختيار، و«للصغار» مثالية للأطفال."
+     }
+    },
+    {
+     "id": "questions",
+     "title": {
+      "en": "Which questions",
+      "ar": "اختيار الأسئلة"
+     },
+     "where": {
+      "en": "Home page (lobby) › Question categories",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ فئات الأسئلة"
+     },
+     "anim": {
+      "type": "chips"
+     },
+     "what": {
+      "en": "Random mix asks questions from every category. Choose categories lets you switch categories on and off - the number of available questions updates as you tap. With Random mix you can also include or leave out songs and video clips (they play on the TV).",
+      "ar": "«أسئلة عشوائية» تطرح أسئلة من كل الفئات. «اختر الفئات» تتيح لك تشغيل الفئات وإيقافها - ويتغيّر عدد الأسئلة المتاحة مع كل ضغطة. ومع الأسئلة العشوائية يمكنك أيضًا تضمين الأغاني ومقاطع الفيديو (تُعرض على التلفاز) أو استبعادها."
+     },
+     "how": {
+      "en": "Home page › Question categories: tap Random mix or Choose categories. When choosing, tap each category to switch it; All categories and Default selection are quick shortcuts. Include songs and video clips is an On/Off button.",
+      "ar": "الصفحة الرئيسية ‹ فئات الأسئلة: اضغط «أسئلة عشوائية» أو «اختر الفئات». عند الاختيار اضغط على كل فئة لتشغيلها أو إيقافها؛ «كل الفئات» و«الاختيار الافتراضي» اختصاران سريعان. «تضمين الأغاني ومقاطع الفيديو» زر تشغيل/إيقاف."
+     },
+     "why": {
+      "en": "Pick topics your group enjoys (sport fans, movie night), drop the ones nobody knows, and turn clips off when the TV sound is off or you want a faster game.",
+      "ar": "اختر المواضيع التي تحبها مجموعتك (عشاق الرياضة، سهرة الأفلام)، واستبعد ما لا يعرفه أحد، وأوقف المقاطع عندما يكون صوت التلفاز مغلقًا أو تريد لعبة أسرع."
+     }
+    },
+    {
+     "id": "showq",
+     "title": {
+      "en": "Questions on the TV",
+      "ar": "الأسئلة على التلفاز"
+     },
+     "where": {
+      "en": "Home page (lobby) › Questions shown on the TV",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ عرض الأسئلة على التلفاز"
+     },
+     "anim": {
+      "type": "tv"
+     },
+     "what": {
+      "en": "On: each question is written on the TV for everyone to read. Off: only you see the question, and you read it out like the show's host. The answer is never shown on the TV until it's judged.",
+      "ar": "مفعّل: يُكتب كل سؤال على التلفاز ليقرأه الجميع. متوقف: لا يرى السؤال غيرك، فتقرؤه بصوت عالٍ كمقدّم البرنامج. لا تظهر الإجابة على التلفاز أبدًا قبل الحكم عليها."
+     },
+     "how": {
+      "en": "Home page › tap the Questions shown on the TV button to switch between On and Off.",
+      "ar": "الصفحة الرئيسية ‹ اضغط زر «عرض الأسئلة على التلفاز» للتبديل بين مفعّل ومتوقف."
+     },
+     "why": {
+      "en": "Turn it off for the real show feeling and so nobody reads ahead. Keep it on in loud rooms, for players who are hard of hearing, and with multiple choice or typed answers.",
+      "ar": "أوقفه لإحساس البرنامج الحقيقي وحتى لا يقرأ أحد السؤال مسبقًا. أبقِه مفعّلًا في الأماكن المزعجة، ولمن يصعب عليهم السمع، ومع الاختيار من متعدد أو كتابة الإجابة."
+     }
+    }
+   ]
+  },
+  {
+   "id": "rules",
+   "title": {
+    "en": "Rules you can change",
+    "ar": "القواعد التي يمكنك تعديلها"
+   },
+   "topics": [
+    {
+     "id": "gametype",
+     "title": {
+      "en": "Game type: voted off or tokens",
+      "ar": "نوع اللعبة: إقصاء أو شارات"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Players and rounds",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ اللاعبون والجولات"
+     },
+     "anim": {
+      "type": "players",
+      "modes": [
+       "elim",
+       "tokens"
+      ]
+     },
+     "what": {
+      "en": "Voted off: the Chain Breaker leaves after every vote, so there is one round per player until two remain. Tokens: nobody leaves - the Chain Breaker collects a token, you choose the number of rounds, and the two players with the fewest tokens play the final.",
+      "ar": "إقصاء بالتصويت: يغادر كاسر السلسلة بعد كل تصويت، فتكون هناك جولة لكل لاعب حتى يبقى اثنان. الشارات: لا أحد يغادر - يأخذ كاسر السلسلة شارة، وتحدد أنت عدد الجولات، واللاعبان الأقل شارات يلعبان النهائي."
+     },
+     "how": {
+      "en": "Change the rules › Players and rounds › Game type: tap the blue button to switch. In Tokens, a Rounds − / + row appears.",
+      "ar": "تعديل القواعد ‹ اللاعبون والجولات ‹ نوع اللعبة: اضغط الزر الأزرق للتبديل. في وضع الشارات يظهر سطر «الجولات» مع − و +."
+     },
+     "why": {
+      "en": "Tokens keeps everyone playing to the end - ideal for families, kids and parties where being voted out early would be no fun.",
+      "ar": "الشارات تُبقي الجميع في اللعب حتى النهاية - مثالية للعائلات والأطفال والحفلات حيث لا يكون الإقصاء المبكر ممتعًا."
+     }
+    },
+    {
+     "id": "maxplayers",
+     "title": {
+      "en": "Maximum players and rounds",
+      "ar": "أقصى عدد للاعبين والجولات"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Players and rounds",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ اللاعبون والجولات"
+     },
+     "anim": {
+      "type": "control",
+      "kind": "stepper",
+      "label": {
+       "en": "Maximum players: {v}",
+       "ar": "أقصى عدد للاعبين: {v}"
+      },
+      "values": [
+       "6",
+       "7",
+       "8",
+       "9",
+       "10"
+      ]
+     },
+     "what": {
+      "en": "Sets how many players can join (2 to 16). With voted off, the number of rounds follows automatically: players minus two. With tokens, you set the number of rounds yourself (1 to 20).",
+      "ar": "يحدد عدد اللاعبين الذين يمكنهم الانضمام (من 2 إلى 16). في وضع الإقصاء يتحدد عدد الجولات تلقائيًا: عدد اللاعبين ناقص اثنين. وفي وضع الشارات تحدد أنت عدد الجولات (من 1 إلى 20)."
+     },
+     "how": {
+      "en": "Change the rules › Players and rounds › Maximum players: tap − or +. In Tokens mode use the Rounds row the same way.",
+      "ar": "تعديل القواعد ‹ اللاعبون والجولات ‹ أقصى عدد للاعبين: اضغط − أو +. في وضع الشارات استخدم سطر «الجولات» بالطريقة نفسها."
+     },
+     "why": {
+      "en": "Raise it for a big party. Remember every extra player adds a round of about two minutes plus a vote - so for a short game, keep the group small or use Tokens with fewer rounds.",
+      "ar": "ارفعه للحفلات الكبيرة. وتذكّر أن كل لاعب إضافي يضيف جولة مدتها نحو دقيقتين مع تصويت - لذلك في اللعبة القصيرة اجعل المجموعة صغيرة أو استخدم الشارات بعدد جولات أقل."
+     }
+    },
+    {
+     "id": "starter",
+     "title": {
+      "en": "Who starts round 1",
+      "ar": "من يبدأ الجولة الأولى"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Players and rounds",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ اللاعبون والجولات"
+     },
+     "anim": {
+      "type": "control",
+      "kind": "cycle",
+      "label": {
+       "en": "Who starts round 1",
+       "ar": "من يبدأ الجولة الأولى"
+      },
+      "values": [
+       {
+        "en": "First name A-Z",
+        "ar": "أول اسم أبجديًا"
+       },
+       {
+        "en": "Random",
+        "ar": "عشوائي"
+       },
+       {
+        "en": "First to join",
+        "ar": "أول من انضم"
+       }
+      ]
+     },
+     "what": {
+      "en": "Decides who gets the first question of the game. From round 2 on, the previous round's Chain Champion starts. Either way, you can still pick someone else on the round's start screen.",
+      "ar": "يحدد من يأخذ أول سؤال في اللعبة. ومن الجولة الثانية يبدأ بطل السلسلة في الجولة السابقة. وفي الحالتين يمكنك اختيار لاعب آخر من شاشة بداية الجولة."
+     },
+     "how": {
+      "en": "Change the rules › Players and rounds › Who starts round 1: tap the blue button to cycle through First name A-Z, Random and First to join.",
+      "ar": "تعديل القواعد ‹ اللاعبون والجولات ‹ من يبدأ الجولة الأولى: اضغط الزر الأزرق للتنقل بين أول اسم أبجديًا، وعشوائي، وأول من انضم."
+     },
+     "why": {
+      "en": "Random is the fairest, First to join rewards whoever arrived on time, and A-Z is predictable when you want no surprises.",
+      "ar": "«عشوائي» هو الأعدل، و«أول من انضم» يكافئ من حضر في الوقت، و«أبجديًا» متوقّع عندما لا تريد مفاجآت."
+     }
+    },
+    {
+     "id": "clock",
+     "title": {
+      "en": "Round length",
+      "ar": "مدة الجولة"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Clock",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ الوقت"
+     },
+     "anim": {
+      "type": "clock",
+      "rounds": [
+       150,
+       140,
+       130,
+       120,
+       110,
+       100
+      ]
+     },
+     "what": {
+      "en": "First round sets how long round 1 lasts; Each round shorter by takes that many seconds off every following round, so the game speeds up. A round is never shorter than 20 seconds. The full list appears as Round times.",
+      "ar": "«الجولة الأولى» تحدد مدة الجولة الأولى، و«تنقص كل جولة بمقدار» تُنقص هذا العدد من الثواني من كل جولة بعدها فتتسارع اللعبة. لا تقل أي جولة عن 20 ثانية. تظهر القائمة كاملة في «أوقات الجولات»."
+     },
+     "how": {
+      "en": "Change the rules › Clock: − / + on First round changes 10 seconds at a time; − / + on Each round shorter by changes 5 seconds at a time.",
+      "ar": "تعديل القواعد ‹ الوقت: − / + في «الجولة الأولى» يغيّر 10 ثوانٍ في كل مرة، و− / + في «تنقص كل جولة» يغيّر 5 ثوانٍ في كل مرة."
+     },
+     "why": {
+      "en": "Give more time when players type their answers or for children; cut it for a quick, frantic game. Set the decrease to 0 for equal rounds.",
+      "ar": "أعطِ وقتًا أطول عندما يكتب اللاعبون إجاباتهم أو مع الأطفال، وقلّله للعبة سريعة وحماسية. اجعل النقصان 0 لتكون كل الجولات متساوية."
+     }
+    },
+    {
+     "id": "align",
+     "title": {
+      "en": "With fewer players",
+      "ar": "عند قلة اللاعبين"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Clock",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ الوقت"
+     },
+     "anim": {
+      "type": "clock",
+      "rounds": [
+       150,
+       140,
+       130,
+       120,
+       110,
+       100
+      ],
+      "align": true,
+      "use": 3
+     },
+     "what": {
+      "en": "The round times (and growing chains) are planned for a full game. With fewer players there are fewer rounds, so the game uses only part of the plan: Play the last rounds uses the end - shorter rounds and the biggest money. Play the first rounds uses the start - longer, calmer rounds.",
+      "ar": "أوقات الجولات (والسلاسل المتزايدة) مخططة للعبة مكتملة. مع عدد أقل من اللاعبين تقل الجولات، فتستخدم اللعبة جزءًا من الخطة فقط: «العب الجولات الأخيرة» تستخدم النهاية - جولات أقصر وأكبر مبالغ. «العب الجولات الأولى» تستخدم البداية - جولات أطول وأهدأ."
+     },
+     "how": {
+      "en": "Change the rules › Clock › With fewer players: tap the blue button to switch.",
+      "ar": "تعديل القواعد ‹ الوقت ‹ عند قلة اللاعبين: اضغط الزر الأزرق للتبديل."
+     },
+     "why": {
+      "en": "Last rounds keeps the pace and excitement of the show's ending even with 4 players. First rounds is kinder to beginners who need more time.",
+      "ar": "«الجولات الأخيرة» تحافظ على سرعة وحماس نهاية البرنامج حتى مع 4 لاعبين. و«الجولات الأولى» ألطف بالمبتدئين الذين يحتاجون وقتًا أطول."
+     }
+    },
+    {
+     "id": "chain",
+     "title": {
+      "en": "The money chain",
+      "ar": "سلسلة المال"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Money",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ المال"
+     },
+     "anim": {
+      "type": "chain",
+      "steps": [
+       1000,
+       2500,
+       5000,
+       10000,
+       25000,
+       50000,
+       75000,
+       125000
+      ],
+      "cur": "$",
+      "script": "cccbccccw"
+     },
+     "what": {
+      "en": "Each correct answer in a row moves one step up the chain. The top step is the round's target: once that much is banked, the round ends early. You can borrow the chain of any other format; High Stakes uses a chain that grows every round.",
+      "ar": "كل إجابة صحيحة متتالية ترفع درجة واحدة في السلسلة. أعلى درجة هي هدف الجولة: عند إيداع هذا المبلغ تنتهي الجولة مبكرًا. يمكنك استعارة سلسلة أي نوع آخر، ونوع الرهان الكبير يستخدم سلسلة تكبر كل جولة."
+     },
+     "how": {
+      "en": "Change the rules › Money › Money chain: tap the blue button to take the chain from another format. The values are listed right under it.",
+      "ar": "تعديل القواعد ‹ المال ‹ سلسلة المال: اضغط الزر الأزرق لأخذ السلسلة من نوع آخر. تظهر القيم تحته مباشرة."
+     },
+     "why": {
+      "en": "A shorter chain (like Quick Fire's 6 steps) reaches the target faster; bigger numbers simply feel more exciting. Family's small amounts suit children.",
+      "ar": "السلسلة الأقصر (مثل 6 درجات في السريعة) تصل إلى الهدف أسرع، والأرقام الأكبر أكثر إثارة فقط. والمبالغ الصغيرة في العائلية تناسب الأطفال."
+     }
+    },
+    {
+     "id": "currency",
+     "title": {
+      "en": "Currency",
+      "ar": "العملة"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Money",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ المال"
+     },
+     "anim": {
+      "type": "control",
+      "kind": "cycle",
+      "label": {
+       "en": "Currency",
+       "ar": "العملة"
+      },
+      "values": [
+       "$",
+       "£",
+       "€",
+       "KD",
+       "SAR",
+       "AED",
+       "QAR",
+       {
+        "en": "none",
+        "ar": "بدون"
+       }
+      ]
+     },
+     "what": {
+      "en": "Changes the sign shown in front of every amount: $, £, €, KD, SAR, AED, QAR or no sign at all. It only changes how money looks, not the amounts.",
+      "ar": "يغيّر الرمز الظاهر قبل كل مبلغ: $ أو £ أو € أو KD أو SAR أو AED أو QAR أو بدون رمز. يغيّر شكل المبالغ فقط وليس قيمتها."
+     },
+     "how": {
+      "en": "Change the rules › Money › Currency: tap the button until the one you want appears.",
+      "ar": "تعديل القواعد ‹ المال ‹ العملة: اضغط الزر حتى تظهر العملة التي تريدها."
+     },
+     "why": {
+      "en": "Use your local currency so the prize feels real - or choose none to play just for points.",
+      "ar": "استخدم عملتك المحلية ليبدو المبلغ حقيقيًا - أو اختر «بدون» للعب بالنقاط فقط."
+     }
+    },
+    {
+     "id": "whobanks",
+     "title": {
+      "en": "Who can bank",
+      "ar": "من يستطيع الإيداع"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Money",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ المال"
+     },
+     "anim": {
+      "type": "phone",
+      "modes": [
+       "bank"
+      ]
+     },
+     "what": {
+      "en": "Player whose turn it is: only the player about to be asked can bank, before their question (the show's rule). Anyone, any time: any player can press BANK on their phone whenever the chain is worth something. You as host can always bank for the player.",
+      "ar": "صاحب الدور: لا يودِع إلا اللاعب الذي سيُسأل الآن، قبل سؤاله (قاعدة البرنامج). أي لاعب في أي وقت: يستطيع أي لاعب الضغط على «إيداع» من هاتفه متى كانت للسلسلة قيمة. وأنت كمقدّم تستطيع الإيداع عن اللاعب دائمًا."
+     },
+     "how": {
+      "en": "Change the rules › Money › Who can bank: tap the blue button to switch.",
+      "ar": "تعديل القواعد ‹ المال ‹ من يستطيع الإيداع: اضغط الزر الأزرق للتبديل."
+     },
+     "why": {
+      "en": "Anyone, any time is chaotic team fun - everyone screaming BANK. The show's rule is more strategic: each player decides alone whether to risk it.",
+      "ar": "«أي لاعب في أي وقت» متعة جماعية صاخبة - الجميع يصرخ «إيداع». أما قاعدة البرنامج فأكثر استراتيجية: كل لاعب يقرر وحده هل يخاطر."
+     }
+    },
+    {
+     "id": "autobank",
+     "title": {
+      "en": "A full chain banks itself",
+      "ar": "السلسلة الكاملة تُودَع تلقائيًا"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Money",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ المال"
+     },
+     "anim": {
+      "type": "chain",
+      "steps": [
+       1000,
+       2500,
+       5000,
+       10000,
+       25000,
+       50000,
+       75000,
+       125000
+      ],
+      "cur": "$",
+      "script": "cccccccca",
+      "auto": true
+     },
+     "what": {
+      "en": "On: when the last step of the chain is reached, it is banked automatically - which reaches the target and ends the round. Off: someone still has to bank the top amount, and a wrong answer before that loses it all.",
+      "ar": "مفعّل: عند الوصول إلى آخر درجة في السلسلة تُودَع تلقائيًا - فيتحقق الهدف وتنتهي الجولة. متوقف: لا بد أن يودِع أحدهم المبلغ الأعلى، وإجابة خاطئة قبل ذلك تُضيّعه كله."
+     },
+     "how": {
+      "en": "Change the rules › Money › A full chain banks itself: tap On/Off.",
+      "ar": "تعديل القواعد ‹ المال ‹ السلسلة الكاملة تُودَع تلقائيًا: اضغط مفعّل/متوقف."
+     },
+     "why": {
+      "en": "Leave it on for a smooth game. Turn it off for maximum drama: the team has to remember to bank at the very top.",
+      "ar": "أبقِه مفعّلًا للعبة سلسة. وأوقفه لأقصى درجات الإثارة: على الفريق أن يتذكر الإيداع في القمة."
+     }
+    },
+    {
+     "id": "finalround",
+     "title": {
+      "en": "Extra round for the last two",
+      "ar": "الجولة الإضافية لآخر لاعبَين"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Final",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ النهائي"
+     },
+     "anim": {
+      "type": "chain",
+      "steps": [
+       1000,
+       2500,
+       5000,
+       10000,
+       25000,
+       50000,
+       75000,
+       125000
+      ],
+      "cur": "$",
+      "script": "ccbcccb",
+      "mult": 2
+     },
+     "what": {
+      "en": "When two players remain, they play one more round where everything banked is multiplied (×2 by default) before the head to head. You set its length and the multiplier. Only available when players are voted off.",
+      "ar": "عندما يبقى لاعبان يلعبان جولة إضافية يُضاعَف فيها كل ما يُودَع (×2 افتراضيًا) قبل المواجهة المباشرة. تحدد أنت مدتها والمضاعِف. متاحة فقط في وضع الإقصاء."
+     },
+     "how": {
+      "en": "Change the rules › Final › Extra round for the last two: tap On/Off. When on, use − / + for its length (15 seconds at a time) and for the money multiplier (×1 to ×5).",
+      "ar": "تعديل القواعد ‹ النهائي ‹ جولة إضافية لآخر لاعبَين: اضغط مفعّل/متوقف. عند تفعيلها استخدم − / + لمدتها (15 ثانية في كل مرة) ولمضاعِف المال (من ×1 إلى ×5)."
+     },
+     "why": {
+      "en": "It boosts the final prize and gives the last two a chance to shine. Turn it off when you want to get to the head to head sooner.",
+      "ar": "تكبّر الجائزة النهائية وتمنح آخر لاعبَين فرصة للتألق. أوقفها عندما تريد الوصول إلى المواجهة أسرع."
+     }
+    },
+    {
+     "id": "h2h",
+     "title": {
+      "en": "Head-to-head questions",
+      "ar": "أسئلة المواجهة المباشرة"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Final",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ النهائي"
+     },
+     "anim": {
+      "type": "h2h",
+      "a": [
+       1,
+       0,
+       1,
+       1,
+       1
+      ],
+      "b": [
+       1,
+       1,
+       0,
+       0,
+       1
+      ]
+     },
+     "what": {
+      "en": "In the final duel the last two answer alternately, this many questions each. Most correct answers wins the whole bank. The Chain Champion chooses to go first or second.",
+      "ar": "في المواجهة النهائية يجيب آخر لاعبَين بالتناوب، بهذا العدد من الأسئلة لكل منهما. صاحب أكثر الإجابات الصحيحة يفوز بالبنك كله. ويختار بطل السلسلة أن يبدأ أولًا أو ثانيًا."
+     },
+     "how": {
+      "en": "Change the rules › Final › Head-to-head questions each: tap − or + (1 to 15).",
+      "ar": "تعديل القواعد ‹ النهائي ‹ أسئلة المواجهة لكل لاعب: اضغط − أو + (من 1 إلى 15)."
+     },
+     "why": {
+      "en": "5 is the show's number. Use 3 for a quick finish, or more for a longer, tenser final.",
+      "ar": "5 هو رقم البرنامج. استخدم 3 لنهاية سريعة، أو أكثر لنهائي أطول وأكثر توترًا."
+     }
+    },
+    {
+     "id": "sudden",
+     "title": {
+      "en": "Sudden death",
+      "ar": "الموت المفاجئ"
+     },
+     "where": {
+      "en": "Home page (lobby) › Change the rules › Final",
+      "ar": "الصفحة الرئيسية (الردهة) ‹ تعديل القواعد ‹ النهائي"
+     },
+     "anim": {
+      "type": "h2h",
+      "a": [
+       1,
+       0,
+       1
+      ],
+      "b": [
+       0,
+       1,
+       1
+      ],
+      "sa": [
+       1,
+       1
+      ],
+      "sb": [
+       1,
+       0
+      ]
+     },
+     "what": {
+      "en": "If the head to head is level, sudden death continues with one question each until one player is right and the other wrong. With it off, a tie goes to the player who answered first.",
+      "ar": "إذا تعادلت المواجهة يستمر الموت المفاجئ بسؤال لكل لاعب حتى يصيب أحدهما ويخطئ الآخر. وعند إيقافه يفوز في التعادل اللاعب الذي بدأ أولًا."
+     },
+     "how": {
+      "en": "Change the rules › Final › Sudden death on a tie: tap On/Off.",
+      "ar": "تعديل القواعد ‹ النهائي ‹ الموت المفاجئ عند التعادل: اضغط مفعّل/متوقف."
+     },
+     "why": {
+      "en": "Keep it on for drama. Turn it off when the game must finish at a fixed time.",
+      "ar": "أبقِه مفعّلًا للإثارة، وأوقفه عندما يجب أن تنتهي اللعبة في وقت محدد."
+     }
+    }
+   ]
+  },
+  {
+   "id": "game",
+   "title": {
+    "en": "Running the game",
+    "ar": "إدارة اللعبة"
+   },
+   "topics": [
+    {
+     "id": "roundstart",
+     "title": {
+      "en": "Starting a round",
+      "ar": "بدء الجولة"
+     },
+     "where": {
+      "en": "During the game › Round start",
+      "ar": "أثناء اللعب ‹ بداية الجولة"
+     },
+     "anim": {
+      "type": "players",
+      "modes": [
+       "starter"
+      ]
+     },
+     "what": {
+      "en": "Before each round you see its length and target, and who starts. Round 1 follows the Who starts rule; later rounds start with the last Chain Champion. The clock only runs after you tap Start the clock.",
+      "ar": "قبل كل جولة ترى مدتها وهدفها ومن يبدأ. الجولة الأولى تتبع قاعدة «من يبدأ»، والجولات التالية يبدأها بطل السلسلة الأخير. لا يبدأ الوقت إلا بعد أن تضغط «ابدأ الوقت»."
+     },
+     "how": {
+      "en": "Tap a name to choose who starts, or Pick at random. Then tap Start the clock.",
+      "ar": "اضغط على اسم لتختار من يبدأ، أو «اختيار عشوائي». ثم اضغط «ابدأ الوقت»."
+     },
+     "why": {
+      "en": "Wait until everyone is ready - the round starts on your tap, not before. Change the starter if someone just arrived or to give a nervous player an easier start.",
+      "ar": "انتظر حتى يستعد الجميع - تبدأ الجولة بضغطتك لا قبلها. غيّر من يبدأ إذا وصل أحدهم للتو أو لتمنح لاعبًا متوترًا بداية أسهل."
+     }
+    },
+    {
+     "id": "judging",
+     "title": {
+      "en": "Correct, Wrong and Pass",
+      "ar": "صحيح وخطأ وتمرير"
+     },
+     "where": {
+      "en": "During the game › During a round",
+      "ar": "أثناء اللعب ‹ أثناء الجولة"
+     },
+     "anim": {
+      "type": "chain",
+      "steps": [
+       1000,
+       2500,
+       5000,
+       10000,
+       25000,
+       50000,
+       75000,
+       125000
+      ],
+      "cur": "$",
+      "script": "ccwccp"
+     },
+     "what": {
+      "en": "Correct moves the chain one step up; Wrong drops it back to zero and everything unbanked is lost. Pass counts as wrong but saves time on a question nobody knows. The correct answer is always shown to you in the green box. With multiple choice, the phone's answer is judged automatically.",
+      "ar": "«صحيح» يرفع السلسلة درجة، و«خطأ» يعيدها إلى الصفر ويضيع كل ما لم يُودَع. «تمرير» يُحسب خطأ لكنه يوفّر الوقت في سؤال لا يعرفه أحد. تظهر لك الإجابة الصحيحة دائمًا في المربع الأخضر. ومع الاختيار من متعدد يُحكم على إجابة الهاتف تلقائيًا."
+     },
+     "how": {
+      "en": "Use the big Correct and Wrong buttons at the bottom of your screen; Pass is with the smaller buttons under the chain. In typed mode the player's answer appears in a blue box - judge it the same way.",
+      "ar": "استخدم زرّي «صحيح» و«خطأ» الكبيرين أسفل الشاشة، و«تمرير» مع الأزرار الصغيرة تحت السلسلة. في وضع كتابة الإجابة تظهر إجابة اللاعب في مربع أزرق - احكم عليها بالطريقة نفسها."
+     },
+     "why": {
+      "en": "Judge quickly - the clock keeps running. Be generous with spelling and accept answers that clearly mean the same thing.",
+      "ar": "احكم بسرعة - فالوقت مستمر. وكن متسامحًا مع الإملاء واقبل الإجابات التي تعني الشيء نفسه بوضوح."
+     }
+    },
+    {
+     "id": "banking",
+     "title": {
+      "en": "Banking",
+      "ar": "الإيداع"
+     },
+     "where": {
+      "en": "During the game › During a round",
+      "ar": "أثناء اللعب ‹ أثناء الجولة"
+     },
+     "anim": {
+      "type": "chain",
+      "steps": [
+       1000,
+       2500,
+       5000,
+       10000,
+       25000,
+       50000,
+       75000,
+       125000
+      ],
+      "cur": "$",
+      "script": "ccbcccbcct"
+     },
+     "what": {
+      "en": "BANK saves the chain's current value into the round's bank and the chain starts again from the bottom. Banking happens before the question is answered. When time runs out, anything not banked is lost; when the target is banked, the round ends early.",
+      "ar": "«إيداع» يحفظ قيمة السلسلة الحالية في بنك الجولة وتبدأ السلسلة من الأسفل من جديد. يكون الإيداع قبل الإجابة عن السؤال. عند انتهاء الوقت يضيع كل ما لم يُودَع، وعند إيداع الهدف تنتهي الجولة مبكرًا."
+     },
+     "how": {
+      "en": "Players bank from their phones, or when a player says \"Bank!\" you tap the gold BANK button for them.",
+      "ar": "يودِع اللاعبون من هواتفهم، أو عندما يقول اللاعب «إيداع!» تضغط أنت زر الإيداع الذهبي عنه."
+     },
+     "why": {
+      "en": "Banking early is safe but small; waiting builds bigger amounts but risks everything. That tension is the heart of the game.",
+      "ar": "الإيداع المبكر آمن لكنه صغير، والانتظار يبني مبالغ أكبر لكنه يخاطر بكل شيء. هذا التوتر هو قلب اللعبة."
+     }
+    },
+    {
+     "id": "hostcontrols",
+     "title": {
+      "en": "Skip, Undo, Pause and End round",
+      "ar": "تخطٍّ وتراجع وإيقاف وإنهاء"
+     },
+     "where": {
+      "en": "During the game › During a round",
+      "ar": "أثناء اللعب ‹ أثناء الجولة"
+     },
+     "anim": {
+      "type": "buttons",
+      "items": [
+       {
+        "label": {
+         "en": "Skip question",
+         "ar": "تخطي السؤال"
+        },
+        "color": "grey",
+        "note": {
+         "en": "New question, no penalty",
+         "ar": "سؤال جديد بلا عقوبة"
+        }
+       },
+       {
+        "label": {
+         "en": "Undo",
+         "ar": "تراجع"
+        },
+        "color": "grey",
+        "note": {
+         "en": "Takes back your last tap",
+         "ar": "يلغي آخر ضغطة"
+        }
+       },
+       {
+        "label": {
+         "en": "Pause",
+         "ar": "إيقاف مؤقت"
+        },
+        "color": "dark",
+        "note": {
+         "en": "Stops the clock",
+         "ar": "يوقف الوقت"
+        }
+       },
+       {
+        "label": {
+         "en": "End round now",
+         "ar": "إنهاء الجولة الآن"
+        },
+        "color": "dark",
+        "note": {
+         "en": "Banked money is kept",
+         "ar": "يبقى المال المُودَع"
+        }
+       }
+      ]
+     },
+     "what": {
+      "en": "Skip question replaces the question without counting it as right or wrong. Undo takes back your last Correct, Wrong, Pass or Bank (one step). Pause stops the clock until you tap Resume. End round now finishes the round straight away.",
+      "ar": "«تخطي السؤال» يستبدل السؤال دون احتسابه صحيحًا أو خطأ. «تراجع» يلغي آخر صحيح أو خطأ أو تمرير أو إيداع (خطوة واحدة). «إيقاف مؤقت» يوقف الوقت حتى تضغط «استئناف». «إنهاء الجولة الآن» ينهي الجولة فورًا."
+     },
+     "how": {
+      "en": "These buttons sit under the chain during a round. End game, further down, goes back to the home page (tap it twice to confirm).",
+      "ar": "هذه الأزرار تحت السلسلة أثناء الجولة. وزر «إنهاء اللعبة» في الأسفل يعيدك إلى الصفحة الرئيسية (اضغطه مرتين للتأكيد)."
+     },
+     "why": {
+      "en": "Skip a badly worded or unfair question, Undo a mistaken tap, and Pause for the doorbell - the game stays fair.",
+      "ar": "تخطَّ السؤال الغامض أو غير العادل، وتراجع عن الضغطة الخاطئة، وأوقف الوقت عند رنين الجرس - لتبقى اللعبة عادلة."
+     }
+    },
+    {
+     "id": "voting",
+     "title": {
+      "en": "Voting",
+      "ar": "التصويت"
+     },
+     "where": {
+      "en": "During the game › After each round",
+      "ar": "أثناء اللعب ‹ بعد كل جولة"
+     },
+     "anim": {
+      "type": "players",
+      "modes": [
+       "vote"
+      ]
+     },
+     "what": {
+      "en": "After each round a table shows everyone's correct and wrong answers and money banked, with the Chain Champion (the round's best) and the weakest score. Everyone votes for the Chain Breaker. If votes are tied, the Chain Champion has the casting vote.",
+      "ar": "بعد كل جولة يظهر جدول بالإجابات الصحيحة والخاطئة والمال المُودَع لكل لاعب، مع بطل السلسلة (الأفضل في الجولة) والأقل نتيجة. يصوّت الجميع على كاسر السلسلة. وإذا تعادلت الأصوات يكون القرار لبطل السلسلة."
+     },
+     "how": {
+      "en": "Players vote on their phones. For a player without a phone, tap Vote for them and pick their choice. Tap Reveal the votes, then Goodbye! (or Give the token).",
+      "ar": "يصوّت اللاعبون من هواتفهم. لمن ليس لديه هاتف اضغط «صوّت عنه» واختر اختياره. اضغط «اكشف الأصوات» ثم «وداعًا!» (أو «أعطِ الشارة»)."
+     },
+     "why": {
+      "en": "You can reveal before everyone has voted if someone is taking too long - missing votes simply don't count.",
+      "ar": "يمكنك كشف الأصوات قبل أن يصوّت الجميع إذا تأخر أحدهم - الأصوات الناقصة لا تُحتسب فقط."
+     }
+    },
+    {
+     "id": "final",
+     "title": {
+      "en": "The head to head",
+      "ar": "المواجهة المباشرة"
+     },
+     "where": {
+      "en": "During the game › Final",
+      "ar": "أثناء اللعب ‹ النهائي"
+     },
+     "anim": {
+      "type": "h2h",
+      "a": [
+       1,
+       1,
+       0,
+       1,
+       1
+      ],
+      "b": [
+       1,
+       0,
+       1,
+       0,
+       1
+      ]
+     },
+     "what": {
+      "en": "The last two take turns answering. Each dot is one question: green right, red wrong. When one player can no longer be caught, the game ends and the winner takes the bank.",
+      "ar": "يتناوب آخر لاعبَين على الإجابة. كل نقطة سؤال واحد: الأخضر صحيح والأحمر خطأ. عندما لا يمكن اللحاق بأحد اللاعبين تنتهي اللعبة ويأخذ الفائز البنك."
+     },
+     "how": {
+      "en": "The Chain Champion picks Go first or Go second (you tap it for them). Judge each answer with Correct or Wrong. At the end, Back to the lobby keeps the players for another game.",
+      "ar": "يختار بطل السلسلة «أبدأ أولًا» أو «أبدأ ثانيًا» (وتضغطه أنت عنه). احكم على كل إجابة بـ«صحيح» أو «خطأ». وفي النهاية «العودة إلى الردهة» تُبقي اللاعبين للعبة أخرى."
+     },
+     "why": {
+      "en": "Read slowly and build the suspense - this is the moment everyone waits for.",
+      "ar": "اقرأ ببطء وابنِ التشويق - هذه هي اللحظة التي ينتظرها الجميع."
+     }
+    }
+   ]
+  },
+  {
+   "id": "settings",
+   "title": {
+    "en": "Settings",
+    "ar": "الإعدادات"
+   },
+   "topics": [
+    {
+     "id": "language",
+     "title": {
+      "en": "Language",
+      "ar": "اللغة"
+     },
+     "where": {
+      "en": "Settings › Language",
+      "ar": "الإعدادات ‹ اللغة"
+     },
+     "anim": {
+      "type": "control",
+      "kind": "segment",
+      "label": {
+       "en": "Language",
+       "ar": "اللغة"
+      },
+      "values": [
+       "English",
+       "العربية"
+      ]
+     },
+     "what": {
+      "en": "Switches the whole game - your screen, the TV and the players' phones - between English and Arabic. The questions switch too: each language has its own question set.",
+      "ar": "يبدّل اللعبة كلها - شاشتك والتلفاز وهواتف اللاعبين - بين العربية والإنجليزية. والأسئلة تتبدل أيضًا: لكل لغة مجموعة أسئلتها."
+     },
+     "how": {
+      "en": "Settings › Language, or the English / عربي button at the top of any screen.",
+      "ar": "الإعدادات ‹ اللغة، أو زر English / عربي أعلى أي شاشة."
+     },
+     "why": {
+      "en": "Choose the language your players read best - and switch before the game starts, so every question comes from the same set.",
+      "ar": "اختر اللغة التي يقرؤها لاعبوك أفضل - وبدّلها قبل بدء اللعبة لتأتي كل الأسئلة من المجموعة نفسها."
+     }
+    },
+    {
+     "id": "repeat",
+     "title": {
+      "en": "Allow asked questions again",
+      "ar": "السماح بتكرار الأسئلة"
+     },
+     "where": {
+      "en": "Settings › Content",
+      "ar": "الإعدادات ‹ المحتوى"
+     },
+     "anim": {
+      "type": "buttons",
+      "items": [
+       {
+        "label": {
+         "en": "Allow already-asked questions again",
+         "ar": "السماح بتكرار الأسئلة التي طُرحت سابقًا"
+        },
+        "color": "grey",
+        "note": {
+         "en": "Forgets which questions were asked",
+         "ar": "ينسى الأسئلة التي طُرحت"
+        }
+       }
+      ]
+     },
+     "what": {
+      "en": "The game remembers which questions were asked in earlier games so the same group doesn't get repeats. This button clears that memory.",
+      "ar": "تتذكر اللعبة الأسئلة التي طُرحت في الألعاب السابقة حتى لا تتكرر على المجموعة نفسها. هذا الزر يمسح تلك الذاكرة."
+     },
+     "how": {
+      "en": "Settings › tap Allow already-asked questions again.",
+      "ar": "الإعدادات ‹ اضغط «السماح بتكرار الأسئلة التي طُرحت سابقًا»."
+     },
+     "why": {
+      "en": "Use it when you play with a new group who haven't heard any questions yet, or after playing so much that fresh questions are running low.",
+      "ar": "استخدمه عندما تلعب مع مجموعة جديدة لم تسمع أي سؤال بعد، أو بعد أن لعبت كثيرًا حتى قلّت الأسئلة الجديدة."
+     }
+    },
+    {
+     "id": "repo",
+     "title": {
+      "en": "Content repository",
+      "ar": "مستودع المحتوى"
+     },
+     "where": {
+      "en": "Settings › Content repository",
+      "ar": "الإعدادات ‹ مستودع المحتوى"
+     },
+     "anim": {
+      "type": "buttons",
+      "items": [
+       {
+        "label": {
+         "en": "Save and reload",
+         "ar": "حفظ وإعادة التحميل"
+        },
+        "color": "blue",
+        "note": {
+         "en": "Loads questions from your address",
+         "ar": "يحمّل الأسئلة من عنوانك"
+        }
+       },
+       {
+        "label": {
+         "en": "Back to the default",
+         "ar": "العودة إلى الافتراضي"
+        },
+        "color": "grey",
+        "note": {
+         "en": "Official questions again",
+         "ar": "الأسئلة الرسمية من جديد"
+        }
+       }
+      ]
+     },
+     "what": {
+      "en": "The rules, questions and translations are downloaded from this GitHub address every time the app starts. The status line shows where the content came from and how many questions are loaded.",
+      "ar": "تُحمَّل القواعد والأسئلة والترجمات من عنوان GitHub هذا في كل مرة يبدأ فيها التطبيق. ويوضح سطر الحالة مصدر المحتوى وعدد الأسئلة المحمّلة."
+     },
+     "how": {
+      "en": "Settings › Content repository: type the address, tap Save and reload. The reset button returns to the official content.",
+      "ar": "الإعدادات ‹ مستودع المحتوى: اكتب العنوان واضغط «حفظ وإعادة التحميل». وزر الإعادة يرجعك إلى المحتوى الرسمي."
+     },
+     "why": {
+      "en": "Only needed if you keep your own copy with custom questions - otherwise leave it as it is.",
+      "ar": "لا تحتاجه إلا إذا كانت لديك نسخة خاصة بأسئلة مخصصة - وإلا فاتركه كما هو."
+     },
+     "only": "phone"
+    },
+    {
+     "id": "tvlink",
+     "title": {
+      "en": "Connecting the TV",
+      "ar": "ربط التلفاز"
+     },
+     "where": {
+      "en": "Settings › TV",
+      "ar": "الإعدادات ‹ التلفاز"
+     },
+     "anim": {
+      "type": "buttons",
+      "items": [
+       {
+        "label": {
+         "en": "Connect a TV",
+         "ar": "ربط تلفاز"
+        },
+        "color": "dark",
+        "note": {
+         "en": "Shows the TV address and pairing steps",
+         "ar": "يعرض عنوان التلفاز وخطوات الربط"
+        }
+       },
+       {
+        "label": {
+         "en": "Disconnect the TV",
+         "ar": "فصل التلفاز"
+        },
+        "color": "grey",
+        "note": {
+         "en": "Frees the TV for another phone",
+         "ar": "يحرّر التلفاز لهاتف آخر"
+        }
+       }
+      ]
+     },
+     "what": {
+      "en": "Your phone runs the game; the TV shows it to the room. The TV opens the address shown on your phone, and you pair it by scanning the code on the TV.",
+      "ar": "هاتفك يدير اللعبة والتلفاز يعرضها للحاضرين. يفتح التلفاز العنوان الظاهر على هاتفك، ثم تربطه بمسح الرمز الظاهر على التلفاز."
+     },
+     "how": {
+      "en": "Settings › Connect a TV, then follow the steps. Disconnect the TV unpairs it. You can also play with no TV at all - the join QR then shows on your phone.",
+      "ar": "الإعدادات ‹ ربط تلفاز ثم اتبع الخطوات. «فصل التلفاز» يلغي الربط. ويمكنك أيضًا اللعب بدون تلفاز - فيظهر رمز الانضمام على هاتفك."
+     },
+     "why": {
+      "en": "Reconnect when you change TV or Wi-Fi, or when the TV page was closed.",
+      "ar": "أعد الربط عندما تغيّر التلفاز أو شبكة Wi-Fi، أو عندما تُغلق صفحة التلفاز."
+     },
+     "only": "phone"
+    },
+    {
+     "id": "hostcode",
+     "title": {
+      "en": "Hand over to another phone",
+      "ar": "تسليم اللعبة لهاتف آخر"
+     },
+     "where": {
+      "en": "Settings › Host phone",
+      "ar": "الإعدادات ‹ هاتف المقدّم"
+     },
+     "anim": {
+      "type": "buttons",
+      "items": [
+       {
+        "label": {
+         "en": "Show a new host code on the TV",
+         "ar": "إظهار رمز مقدّم جديد على التلفاز"
+        },
+        "color": "blue",
+        "note": {
+         "en": "Another phone scans it and becomes host",
+         "ar": "يمسحه هاتف آخر فيصبح المقدّم"
+        }
+       }
+      ]
+     },
+     "what": {
+      "en": "Only one phone can be the host. This shows a new host QR code on the TV; the phone that scans it takes over and this phone stops being the host.",
+      "ar": "يمكن لهاتف واحد فقط أن يكون المقدّم. هذا يُظهر رمز مقدّم جديدًا على التلفاز، والهاتف الذي يمسحه يتولى التقديم ويتوقف هذا الهاتف عن ذلك."
+     },
+     "how": {
+      "en": "Settings › Host phone › Show a new host code on the TV, then scan the TV with the other phone.",
+      "ar": "الإعدادات ‹ هاتف المقدّم ‹ إظهار رمز مقدّم جديد على التلفاز، ثم امسح الرمز على التلفاز بالهاتف الآخر."
+     },
+     "why": {
+      "en": "Handy when your battery is low, or when someone else wants to host the next game. The game in progress carries on.",
+      "ar": "مفيد عندما تنخفض بطارية هاتفك، أو عندما يريد شخص آخر تقديم اللعبة التالية. واللعبة الجارية تستمر."
+     },
+     "only": "web"
+    }
+   ]
+  }
+ ]
+}
